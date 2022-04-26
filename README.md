@@ -1,5 +1,7 @@
 # Ctse.XrmToolbox.CopyFlow
 
+With this plugin for XrmToolBox you can easily copy a cloud flow.
+
 Usage instructions:
 * Click on the button "Load solutions", then all unmanaged solutions with a cloud flow will be displayed.
 * Select a solution, then all cloud flows inside the solution will be displayed.
