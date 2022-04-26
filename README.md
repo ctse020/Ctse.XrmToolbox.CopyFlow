@@ -10,5 +10,4 @@ With this plugin for XrmToolBox you can easily copy a cloud flow.
 
 Note: the user must have the privileges Import Customizations and Export Customizations
 
-## Releases
-* 1.0.0.3 : first release
+
