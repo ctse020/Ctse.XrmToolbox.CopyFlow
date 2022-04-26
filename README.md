@@ -8,7 +8,7 @@ With this plugin for XrmToolBox you can easily copy a cloud flow.
 * Click on the button "Copy flow", a popup will be shown where you have to fill in the new flow name and if the copied flow should be turned on. The flow will be copied into the same solution with the given name and status.
 * Click on the button "Open flow" to open the flow inside PowerAutomate.
 
-Note: the user must have the privilege Import Customizations and Export Customizations
+Note: the user must have the privileges Import Customizations and Export Customizations
 
 ## Releases
 * 1.0.0.3 : first release
