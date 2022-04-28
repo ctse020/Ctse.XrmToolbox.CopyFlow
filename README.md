@@ -1,6 +1,6 @@
 # Ctse.XrmToolbox.CopyFlow
 
-With this plugin for XrmToolBox you can easily copy unmanaged PowerAutomate/Cloud flows inside a solution.
+With this plugin for XrmToolBox you can easily copy (unmanaged and managed) PowerAutomate/Cloud flows inside an unmanaged solution.
 
 ## Usage instructions:
 * Click on the button "Load solutions", then all unmanaged solutions with a cloud flow will be displayed.
