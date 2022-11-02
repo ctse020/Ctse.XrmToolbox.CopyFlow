@@ -10,4 +10,5 @@ With this plugin for XrmToolBox you can easily copy (unmanaged and managed) Powe
 
 Note: the user must have the privileges Import Customizations and Export Customizations
 
-
+Note: Currently you may notice an issue when updating CopyFlow to a newer version. After updating the old version of CopyFlow is still active.
+The workaround for now for updating to a new version of CopyFlow is from the Tool Library uninstall the CopyFlow tool and after that install the CopyFlow tool again.
